@@ -1,0 +1,6 @@
+id=shield-tweaks
+name=Shield Tablet K1 Tweaks
+version=v1.0
+versionCode=1
+author=manuti
+description=I/O scheduler, interactive governor and VM tweaks for NVIDIA SHIELD Tablet K1
